@@ -1,0 +1,39 @@
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  /* background-color: #777; */
+  background-color: #e1f5fe;
+  font-family: 'Poppins', sans-serif;
+}
+
+.transaction-conatainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  color: white;
+  text-align: left;
+  border-radius: 0.25rem !important;
+  background-color: #222;
+  min-height: 721.59px;
+  max-width: 800px;
+  margin: 10px auto;
+  padding: 10px 30px;
+}
+
